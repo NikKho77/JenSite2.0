@@ -1,0 +1,117 @@
+a{
+color: white;
+}
+
+h1{
+color: white;
+}
+h2{
+color: white;
+}
+h3{
+color: white;
+}
+h4{
+color: white;
+}
+h5{
+color: white;
+font-size: 90px;
+}
+body{
+background: white;
+background-size:cover;
+
+
+}
+.aa{
+
+color:black;
+background:none;
+width:100%;
+float:left;
+}
+.LogoMain{
+width:50%;
+
+}
+.bb{
+
+width: 100%;
+}
+.card{
+background:none;
+margin-top:40px;
+margin-left:-15px;
+}
+.qwe{
+color:white;
+}
+.navbar-brand{
+margin-left:30px;
+}
+.qaws{
+margin-top:50%;
+background:none;
+
+}
+.photoaction{
+margin-top:40px;
+}
+.navbar{
+margin-top:0px;
+background:black;
+}
+.navbar-brand{
+font-size:50px;
+font-weight:bold;
+}
+.nav-item{
+margin-left:250px;
+font-size:30px;
+font-weight:bold;
+}
+
+.carousel{
+margin-top:0px;
+}
+
+.carousel-item{
+/*height:700px;*/
+}
+.jumbotron{
+margin-top:10px;
+margin-top:10px;
+background:black;
+padding:0;
+
+}
+.container{
+
+}
+.card{
+height:30px;
+
+}
+.fffsss{
+width:54%;
+background:black;
+float:left;
+}
+
+
+.Fona{
+height:500px;
+width:500px;;
+overflow:hidden;
+margin:0 auto;
+
+}
+.data-gallery{
+margin-bot:10px;
+}
+.pipec{
+height:200px;
+overflow:hidden;
+}
+
